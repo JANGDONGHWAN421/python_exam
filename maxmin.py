@@ -11,3 +11,5 @@ def mini(m_list): # min
         if temp >= m_list[i]:
             temp = m_list[i]
     return temp
+
+#-> SORT를 사용해보자
